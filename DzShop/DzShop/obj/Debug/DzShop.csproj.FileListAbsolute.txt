@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\DzShop\DzShop\bin\Debug\DzShop.exe.config
+C:\Users\User\source\repos\DzShop\DzShop\bin\Debug\DzShop.exe
+C:\Users\User\source\repos\DzShop\DzShop\bin\Debug\DzShop.pdb
+C:\Users\User\source\repos\DzShop\DzShop\obj\Debug\DzShop.csprojAssemblyReference.cache
+C:\Users\User\source\repos\DzShop\DzShop\obj\Debug\DzShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\DzShop\DzShop\obj\Debug\DzShop.exe
+C:\Users\User\source\repos\DzShop\DzShop\obj\Debug\DzShop.pdb
